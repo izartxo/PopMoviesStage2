@@ -1,0 +1,42 @@
+<resources>
+    <!-- ADD YOUR MOVIE DB API KEY -->
+    <string name="api_key"></string>
+
+    <string name="app_name">PopMoviesApp</string>
+    <string name="error_message_network">There is not network available, check it!</string>
+    <string name="error_message_default">Something goes wrong, back and try again.</string>
+    <string name="release_date">Release date: </string>
+    <string name="vote_average">User rate: </string>
+    <string name="plot_synopsis">Synopsis: </string>
+    <string name="content_authority">bizartxo.udacity.nanodegree.androiddeveloper.popularmoviesapp</string>
+    <string name="no_trailer">NO TRAILERS AVAILABLE</string>
+    <string name="no_reviews">NO REVIEWS AVAILABLE</string>
+    <string name="trailer_label">TRAILERS: </string>
+    <string name="reviews_label">REVIEWS: </string>
+    <string name="favorite_label">Star!</string>
+
+    <!-- menu options strings-->
+    <string name="toprated">Top Rated</string>
+    <string name="popular">Popular</string>
+    <string name="favorites">Favorites</string>
+    <string name="refresh">Refresh</string>
+    <!-- -->
+    <string name="toprated_type">T</string>
+    <string name="popular_type">P</string>
+
+
+
+    <string name="loader_error">Loader not implemented</string>
+    <string name="favorites_message">No favorites!!</string>
+
+    <string name="reviews_author">Author: </string>
+    <string name="reviews_review">Review: </string>
+
+    <string name="share_message">Select app to watch the trailer</string>
+
+    <string name="uri_error">Unknown uri: </string>
+    <string name="notimplemented_error">Not yet implemented</string>
+    <string name="insert_error">Failed to insert row into </string>
+    <string name="update_error">Failed to update row into </string>
+
+</resources>
